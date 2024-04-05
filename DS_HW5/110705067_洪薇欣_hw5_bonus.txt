@@ -1,0 +1,4 @@
+Bonus:
+1. Reverse the list （單向、雙向串列皆可）（反轉完，原功能皆可繼續正常使用，例如：insert first, insert last插入位置仍正確，或是可再次反轉等）
+2. Doubly linked list (有insert first, insert last, insert after, insert before, delete target, clear list, search target, insert random n numbers, invert list 單向串列有的功能雙向串列全都有）
+ 
