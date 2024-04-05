@@ -1,0 +1,7 @@
+計算次方方式：
+1. for迴圈
+2. pow()函式
+
+計算f(x)方式：
+1. for迴圈
+2. Horner's rule
