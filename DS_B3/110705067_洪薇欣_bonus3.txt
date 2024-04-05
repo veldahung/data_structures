@@ -1,0 +1,12 @@
+Bonus 2:
+1.Infix to Postfix  *Xcode讀括號有問題，用<>代替
+2.Infix to Prefix *
+3.Postfix to Prefix
+4.Prefix to postfix
+5.Postfix to Infix
+6.Prefix to Infix
+
+*因為Xcode讀括號（）的部分有問題，如在FB提問的那樣，且好像找不到解決方法，所以括號的部分改用<>代替。
+
+https://www.facebook.com/groups/909170956414291/permalink/951569248841128/
+xcode讀 ( ) 好像會出現問題，轉後序或前序時，只要一遇到 ( ) ，他就會印出 ( 和奇怪的 ? 圖案，或是完全讀不進去跳到stack is empty，甚至是把abc之類的符號變成234、203之類的印出來。而且輸入括號只能打 ( ，只要打 ( ， ) 就會自己跳出，如果刪掉 ) ，改成自己輸 ) 就不能讀。他括號自己手動輸入，和電腦自動跳出的好像有差，長的樣子不太一樣。
