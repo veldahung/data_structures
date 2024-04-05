@@ -1,0 +1,10 @@
+Bonus:
+1.Traverse the BST non-recursively to obtain the 
+	1.1 inorder sequence;
+	1.2 preorder sequence;
+	1.3 postorder sequence.
+2.Insertion non-recursively
+3.Deletion non-recursively
+4.Search non-recursively
+5.AVL tree(insert, search, delete)(inorder, preorder, postorder, level order)
+6.列印出recursive, non-recursive, AVL tree 花費的執行時間，以利比較
