@@ -1,0 +1,4 @@
+Bonus:
+SSAD: Report the shortest paths from the source to all destinations 
+All-pairs: Report the shortest paths for all pairs (Using Dijkstra  algorithm)
+Graph: 有有向(directed)和無向(undirected)可以選
